@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Arvind
 
-<!--
-**itsarviii/itsarviii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Passionate about building scalable web applications and solving real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages**
+- JavaScript
+- Python
+
+**Frontend**
+- React
+- HTML
+- CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Tools**
+- Git
+- GitHub
+- REST APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Unisphere
+Full-stack web application for managing and visualizing digital information.
+
+### 🔹 Portfolio Website
+Personal developer portfolio showcasing my projects and skills.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsarviii&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/dev-arvindpal  
+- Portfolio: https://yourportfolio.com
